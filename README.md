@@ -1,2 +1,2 @@
-# OpenWRT_by_MSSVPN
+# OpenWRT by MSSVPN
  OpenWRT Compiled by MSSVPN
