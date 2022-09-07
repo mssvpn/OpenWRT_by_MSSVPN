@@ -9,10 +9,10 @@ Supported Router
 </h2>
 
 # Xiaomi Mi Router 4A Gigabit
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.1%20WSS%20Mi4AGiga.bin">Base OpenWRT 22.03 - Passwall MSSVPN Version V1.1</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.1%20WSS%20Mi4AGiga.bin">Base OpenWRT 22.03 - Passwall MSSVPN Version V1.1 (Mi4AGiga)</a>
 
 # Totolink X5000r
-Coming Soon - Beta Test
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.1%20WSS%20Totolink%20X5000R.bin">Base OpenWRT 22.03 - Passwall MSSVPN Version V1.1 (Totolink X5000R)</a>
 
 # Our Features:
 * Tweak Process - For low ram router
