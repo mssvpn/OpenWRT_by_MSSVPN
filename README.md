@@ -5,7 +5,7 @@ OpenWRT Firmware - Compiled by MSSVPN
 
 </p>
 <p align="center"><img src="https://forum.openwrt.org/uploads/default/original/3X/2/9/2965b316403db302c535cae40139e8c49bbad6e3.png"></p>
-<h2 align="left"> Our Features:</h2>
+# Our Features:
 * Tweak Process - For low ram router
 * Auto Clear Cache
 * Support WSS Custom Path
