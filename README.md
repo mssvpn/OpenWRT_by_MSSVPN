@@ -10,6 +10,7 @@ Supported Router
 
 # Xiaomi Mi Router 4A Gigabit
 * <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.1%20WSS%20Mi4AGiga.bin">Base OpenWRT 22.03 - Passwall MSSVPN Version V1.1 (Mi4AGiga)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2%20WSS%20Mi4AGiga.bin">Base OpenWRT 22.03 - Passwall MSSVPN Version V1.2 (Mi4AGiga)</a>
 
 # Totolink X5000r
 * <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.1%20WSS%20Totolink%20X5000R.bin">Base OpenWRT 22.03 - Passwall MSSVPN Version V1.1 (Totolink X5000R)</a>
@@ -23,6 +24,9 @@ Supported Router
 * Support WSS Custom Path
 * Both Wifi Enable by default
 * Support VPN Config - XTLS, WS/WSS
+* Preset Passwall Settings
+* Timezone - Asia Kuala Lumpur
+* Fix UDP Test - https://networktest.twilio.com
 
 # Contact Me:
 http://t.me/mssvpn_hq
