@@ -19,5 +19,11 @@ OpenWRT Firmware - Compiled by MSSVPN
 # Totolink X5000r
 Coming Soon - Beta Test
 
-# Feedback
+# Contact Me:
 http://t.me/mssvpn_hq
+
+# Buy me a coffee (Donate:)
+<b>CRONMARKETING</b>
+Maybank: 562508527675 
+EWallet: <a href="https://payment.tngdigital.com.my/sc/bDLnAXzAbu">TouchnGo</a>
+
