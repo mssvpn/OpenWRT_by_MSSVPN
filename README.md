@@ -1,7 +1,7 @@
 <h2 align="center">
 OpenWRT by MSSVPN
 OpenWRT Firmware - Compiled by MSSVPN
-<img src="https://img.shields.io/badge/Version-1.1.0-blue.svg"></h2>
+<img src="https://img.shields.io/badge/Version-1.2.0-blue.svg"></h2>
 
 <p align="center"><img src="https://forum.openwrt.org/uploads/default/original/3X/2/9/2965b316403db302c535cae40139e8c49bbad6e3.png"></p>
 <h2 align="center">
@@ -14,9 +14,11 @@ Supported Router
 
 # Totolink X5000r
 * <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.1%20WSS%20Totolink%20X5000R.bin">Base OpenWRT 22.03 - Passwall MSSVPN Version V1.1 (Totolink X5000R)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2%20WSS%20Totolink%20X5000R.bin">Base OpenWRT 22.03 - Passwall MSSVPN Version V1.2 (Totolink X5000R)</a>
 
 # Redmi AC2100
 * <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.1%20WSS%20Redmi%20AC2100.bin">Base OpenWRT 22.03 - Passwall MSSVPN Version V1.1 (Redmi AC2100)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2%20WSS%20Redmi%20AC2100.bin">Base OpenWRT 22.03 - Passwall MSSVPN Version V1.2 (Redmi AC2100)</a>
 
 # Our Features:
 * Tweak Process - For low ram router
