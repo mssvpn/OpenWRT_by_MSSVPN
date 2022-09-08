@@ -28,7 +28,7 @@ Supported Router
 * Fix UDP Test - https://networktest.twilio.com
 
 # Old Version:
-* <a href="#">Not Recommended to use Old Version</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/blob/main/Old%20Version/README.md">Not Recommended to use Old Version</a>
 
 # Tutorial Setup Passwall:
 <a href="https://telegra.ph/Cara-Setup-Pass-Wall---OpenWRT-21023-08-31">Click Here</a>
