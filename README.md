@@ -31,9 +31,10 @@ Supported Router
 * <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/blob/main/Old%20Version/README.md">Not Recommended to use Old Version</a>
 
 # Tutorial Setup Passwall:
-<a href="https://telegra.ph/Cara-Setup-Pass-Wall---OpenWRT-21023-08-31">Click Here</a>
+* <a href="https://telegra.ph/Cara-Setup-Pass-Wall---OpenWRT-21023-08-31">Click Here</a>
 
 # Contact Me:
+(Custom Fix & Compile Firmware)
 Telegram Channel: <a href="http://t.me/mssvpn">MSSVPN</a><p></p>
 My Telegram: <a href="http://t.me/mssvpn_hq">MSSVPN HQ</a><p></p>
 
