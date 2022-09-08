@@ -38,7 +38,7 @@ My Telegram: <a href="http://t.me/mssvpn_hq">MSSVPN HQ</a><p></p>
 Supported Trick Info: ➡️ <a href="https://t.me/mssvpn_bot">MSSVPN BOT</a>
 
 # Buy me a coffee 🧋 (Donate:)
-<p align="center"><img src="https://telegra.ph/file/42d7bf79b27dc90b1cd69.jpg"></p>
+<p align="center"><img src="https://telegra.ph/file/42d7bf79b27dc90b1cd69.jpg" width="200" height="400"></p>
 <p></p>
 <b>CRONMARKETING</b><p></p>
 Maybank: 562508527675<p></p>
