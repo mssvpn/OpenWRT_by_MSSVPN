@@ -31,7 +31,9 @@ Supported Router
 * Fix UDP Test - https://networktest.twilio.com
 
 # Contact Me:
-http://t.me/mssvpn_hq
+Telegram Channel: <a href="http://t.me/mssvpn">MSSVPN</a>
+My Telegram: <a href="http://t.me/mssvpn_hq">MSSVPN HQ</a>
+
 
 # VPN Config by MSSVPN:
 Supported Trick Info: ➡️ <a href="https://t.me/mssvpn_bot">MSSVPN BOT</a>
