@@ -33,7 +33,10 @@ Supported Router
 # Contact Me:
 http://t.me/mssvpn_hq
 
-# Buy me a coffee (Donate:)
+# VPN Config by MSSVPN:
+Supported Trick Info: ➡️ <a href="https://t.me/mssvpn_bot">MSSVPN BOT</a>
+
+# Buy me a coffee 🧋 (Donate:)
 <b>CRONMARKETING</b><p></p>
 Maybank: 562508527675<p></p>
 EWallet: <a href="https://payment.tngdigital.com.my/sc/bDLnAXzAbu">TouchnGo</a>
