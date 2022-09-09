@@ -17,6 +17,9 @@ Supported Router
 # Redmi AC2100
 * <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2.1%20WSS%20Redmi%20AC2100.bin">Base OpenWRT 22.03 - Passwall MSSVPN Version V1.2.1 (Redmi AC2100)</a>
 
+# Nanopi R2S
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/Openwrt-22.03.0-MSSVPN-V1.0%20WSS%20Nanopi-R2S.img.gz">Base OpenWRT 22.03 - Passwall MSSVPN Version V1.0 (Nanopi R2S)</a>
+
 # Our Features:
 * Tweak Process - For low ram router
 * Auto Clear Cache
