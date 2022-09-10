@@ -9,25 +9,25 @@ Supported Router
 </h2>
 
 # Xiaomi Mi Router 4A Gigabit
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2.1%20WSS%20Mi4AGiga.bin">Base OpenWRT 22.03 - Passwall MSSVPN <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> (Mi4AGiga)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2.1%20WSS%20Mi4AGiga.bin">Base OpenWRT 22.03 - Passwall MSSVPN <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> <p></p>(Mi4AGiga)</a>
 
 # Totolink X5000r
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2.1%20WSS%20Totolink%20X5000R.bin">Base OpenWRT 22.03 - Passwall MSSVPN <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> (Totolink X5000R)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2.1%20WSS%20Totolink%20X5000R.bin">Base OpenWRT 22.03 - Passwall MSSVPN <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> <p></p>(Totolink X5000R)</a>
 
 # Redmi AC2100
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2.1%20WSS%20Redmi%20AC2100.bin">Base OpenWRT 22.03 - Passwall MSSVPN <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> (Redmi AC2100)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2.1%20WSS%20Redmi%20AC2100.bin">Base OpenWRT 22.03 - Passwall MSSVPN <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> <p></p>(Redmi AC2100)</a>
 
 # Mi Router 3G
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2.1%20WSS-Xiaomi_Mi-Router-3G.bin">Base OpenWRT 22.03 - Passwall MSSVPN <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> (Xiaomi Mi Router 3G)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2.1%20WSS-Xiaomi_Mi-Router-3G.bin">Base OpenWRT 22.03 - Passwall MSSVPN <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> <p></p>(Xiaomi Mi Router 3G)</a>
 
 # Mi Router 3GV2
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2.1%20WSS-Xiaomi_Mi-Router-3GV2.bin">Base OpenWRT 22.03 - Passwall MSSVPN <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> (Xiaomi Mi Router 3GV2)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2.1%20WSS-Xiaomi_Mi-Router-3GV2.bin">Base OpenWRT 22.03 - Passwall MSSVPN <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> <p></p>(Xiaomi Mi Router 3GV2)</a>
 
 # Nanopi R2S
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/Openwrt-22.03.0-MSSVPN-V1.0%20WSS%20Nanopi-R2S.img.gz">Base OpenWRT 22.03 - Passwall MSSVPN <img src="https://img.shields.io/badge/Version-1.0-blue.svg"> (Nanopi R2S)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/Openwrt-22.03.0-MSSVPN-V1.0%20WSS%20Nanopi-R2S.img.gz">Base OpenWRT 22.03 - Passwall/SSR+/OpenClash MSSVPN <img src="https://img.shields.io/badge/Version-1.0-blue.svg"> <p></p>(Nanopi R2S)</a>
 
 # Nanopi R4S
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.0%20WSS%20Nanopi-R4S.img.gz">Base OpenWRT 22.03 - Passwall MSSVPN <img src="https://img.shields.io/badge/Version-1.0-blue.svg"> (Nanopi R4S)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.0%20WSS%20Nanopi-R4S.img.gz">Base OpenWRT 22.03 - Passwall/SSR+/OpenClash MSSVPN <img src="https://img.shields.io/badge/Version-1.0-blue.svg"> <p></p>(Nanopi R4S)</a>
 
 # Our Features:
 * Tweak Process - For low ram router
