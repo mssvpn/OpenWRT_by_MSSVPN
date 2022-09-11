@@ -29,7 +29,7 @@ Supported Router
 * <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/Openwrt-22.03.0-MSSVPN-V1.2.1%20WSS%20Nanopi-R4S.img.gz"><img src="https://img.shields.io/badge/OpenWRT-22.03.0-orange.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> <p></p>(Nanopi R4S)</a>
 
 # Our Features Update:
-<img src="https://img.shields.io/badge/Version-1.2.1-blue.svg">
+* <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg">
 * Tweak Process - For low ram router
 * Auto Clear Cache
 * Support WSS Custom Path
