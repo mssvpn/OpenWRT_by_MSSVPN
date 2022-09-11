@@ -1,6 +1,5 @@
 <h2 align="center">
-OpenWRT by MSSVPN
-OpenWRT Firmware - Compiled by MSSVPN
+OpenWRT Firmware - Compiled MOD Version by MSSVPN
 </h2>
 
 <p align="center"><img src="https://forum.openwrt.org/uploads/default/original/3X/2/9/2965b316403db302c535cae40139e8c49bbad6e3.png"></p>
@@ -24,19 +23,22 @@ Supported Router
 * <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2.1%20WSS-Xiaomi_Mi-Router-3GV2.bin"><img src="https://img.shields.io/badge/OpenWRT-22.03.0-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> <p></p>(Xiaomi Mi Router 3GV2)</a>
 
 # Nanopi R2S
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/Openwrt-22.03.0-MSSVPN-V1.0%20WSS%20Nanopi-R2S.img.gz"><img src="https://img.shields.io/badge/OpenWRT-22.03.0-orange.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.0-blue.svg"> <p></p>(Nanopi R2S)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/Openwrt-22.03.0-MSSVPN-V1.2.1%20WSS%20Nanopi-R2S.img.gz"><img src="https://img.shields.io/badge/OpenWRT-22.03.0-orange.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> <p></p>(Nanopi R2S)</a>
 
 # Nanopi R4S
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.0%20WSS%20Nanopi-R4S.img.gz"><img src="https://img.shields.io/badge/OpenWRT-22.03.0-orange.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.0-blue.svg"> <p></p>(Nanopi R4S)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/Openwrt-22.03.0-MSSVPN-V1.2.1%20WSS%20Nanopi-R4S.img.gz"><img src="https://img.shields.io/badge/OpenWRT-22.03.0-orange.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> <p></p>(Nanopi R4S)</a>
 
-# Our Features:
+# Our Features Update:
+<img src="https://img.shields.io/badge/Version-1.2.1-blue.svg">
 * Tweak Process - For low ram router
 * Auto Clear Cache
 * Support WSS Custom Path
 * Both Wifi Enable by default
-* Support VPN Config - XTLS, WS/WSS
+* Support VPN Config - XTLS, WS/WSS, Vmess, Trojan
 * Preset Passwall Settings
 * Timezone - Asia Kuala Lumpur
+* Theme - Bootstrap Dark
+(<i>Change Yours - System -> Style</i>)
 * Fix UDP Test - https://networktest.twilio.com
 
 # Old Version:
