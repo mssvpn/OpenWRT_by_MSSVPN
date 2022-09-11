@@ -1,7 +1,5 @@
 <h2 align="center">
-OpenWRT by MSSVPN
-OpenWRT Firmware - Compiled by MSSVPN
-<img src="https://img.shields.io/badge/Version-1.2.0-blue.svg"></h2>
+OpenWRT Firmware - Compiled MOD Version by MSSVPN</h2>
 <h2 align="center">
 Old Version: Recommended to Use Latest Version
 </h2>
@@ -18,15 +16,11 @@ Old Version: Recommended to Use Latest Version
 * <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/Old%20Version/OpenWrt-22.03.0-MSSVPN-V1.1%20WSS%20Redmi%20AC2100.bin">Base OpenWRT 22.03 - Passwall MSSVPN Version V1.1 (Redmi AC2100)</a>
 * <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/Old%20Version/OpenWrt-22.03.0-MSSVPN-V1.2%20WSS%20Redmi%20AC2100.bin">Base OpenWRT 22.03 - Passwall MSSVPN Version V1.2 (Redmi AC2100)</a>
 
-# Our Features:
-* Tweak Process - For low ram router
-* Auto Clear Cache
-* Support WSS Custom Path
-* Both Wifi Enable by default
-* Support VPN Config - XTLS, WS/WSS
-* Preset Passwall Settings
-* Timezone - Asia Kuala Lumpur
-* Fix UDP Test - https://networktest.twilio.com
+# Nanopi R2S
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/Openwrt-22.03.0-MSSVPN-V1.0%20WSS%20Nanopi-R2S.img.gz">Base OpenWRT 22.03 - Passwall MSSVPN Version V1.0 (Nanopi R2S)</a>
+
+# Nanopi R4S
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.0%20WSS%20Nanopi-R4S.img.gz">Base OpenWRT 22.03 - Passwall MSSVPN Version V1.0 (Nanopi R4S)</a>
 
 # Tutorial Setup Passwall:
 <a href="https://telegra.ph/Cara-Setup-Pass-Wall---OpenWRT-21023-08-31">Click Here</a><p></p>
