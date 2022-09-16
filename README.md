@@ -12,6 +12,7 @@ Supported Router
 
 # Totolink X5000r
 * <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2.1%20WSS%20Totolink%20X5000R.bin"><img src="https://img.shields.io/badge/OpenWRT-22.03.0-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> <p></p>(Totolink X5000R)</a>
+* <a href="https://shopee.com.my/TOTOLINK-X5000R-(AX1800)-WiFi-6-MU-MIMO-Gigabit-Wireless-WiFi-Router-OpenWRT-Stock-Firmware-i.234683885.13110314797?xptdk=1953b9a8-c1fe-4f96-a5fa-5397cbacad6c"><img src="https://img.shields.io/badge/Shopee-Trusted!-orange.svg"> <img src="https://img.shields.io/badge/Shopee-SPayLater-blue.svg"> <p></p>Beli Router Totolink X5000r Di Shopee</a>
 
 # Redmi AC2100
 * <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2.1%20WSS%20Redmi%20AC2100.bin"><img src="https://img.shields.io/badge/OpenWRT-22.03.0-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> <p></p>(Redmi AC2100)</a>
