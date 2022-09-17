@@ -41,7 +41,7 @@ Supported Router
 * Theme set to light
 * Minor bug fix
 * Dll
-* <img src="https://img.shields.io/badge/Version-1.3.4-blue.svg">
+* <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg">
 * Tweak Process - For low ram router
 * Auto Clear Cache
 * Support WSS Custom Path
