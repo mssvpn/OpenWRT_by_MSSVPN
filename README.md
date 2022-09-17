@@ -8,29 +8,40 @@ Supported Router
 </h2>
 
 # Xiaomi Mi Router 4A Gigabit
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2.1%20WSS%20Mi4AGiga.bin"><img src="https://img.shields.io/badge/OpenWRT-22.03.0-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> <p></p>(Mi4AGiga)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03-MSSVPN%20V1.3.4-Mi4a-Gigabit-squashfs-sysupgrade.bin"><img src="https://img.shields.io/badge/OpenWRT-22.03-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.3.4-blue.svg"> <p></p>(Mi4AGiga)</a>
 
 # Totolink X5000r
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2.1%20WSS%20Totolink%20X5000R.bin"><img src="https://img.shields.io/badge/OpenWRT-22.03.0-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> <p></p>(Totolink X5000R)</a><p></p>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03-MSSVPN%20V1.3.4-Totolink-X5000r-squashfs-sysupgrade.bin"><img src="https://img.shields.io/badge/OpenWRT-22.03-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.3.4-blue.svg"> <p></p>(Totolink X5000R)</a><p></p>
 * <a href="https://shopee.com.my/TOTOLINK-X5000R-(AX1800)-WiFi-6-MU-MIMO-Gigabit-Wireless-WiFi-Router-OpenWRT-Stock-Firmware-i.234683885.13110314797?xptdk=1953b9a8-c1fe-4f96-a5fa-5397cbacad6c" target="_blank"><img src="https://img.shields.io/badge/Shopee-Trusted!-orange.svg"> <img src="https://img.shields.io/badge/Shopee-SPayLater-blue.svg"> <p></p>Beli Router Totolink X5000r Di Shopee</a>
 
 # Redmi AC2100
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2.1%20WSS%20Redmi%20AC2100.bin"><img src="https://img.shields.io/badge/OpenWRT-22.03.0-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> <p></p>(Redmi AC2100)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03-MSSVPN%20V1.3.4-Redmi-AC2100-squashfs-sysupgrade.bin"><img src="https://img.shields.io/badge/OpenWRT-22.03-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.3.4-blue.svg"> <p></p>(Redmi AC2100)</a>
 
 # Mi Router 3G
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2.1%20WSS-Xiaomi_Mi-Router-3G.bin"><img src="https://img.shields.io/badge/OpenWRT-22.03.0-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> <p></p>(Xiaomi Mi Router 3G)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03-MSSVPN%20V1.3.4-Mi-3G-squashfs-sysupgrade.bin"><img src="https://img.shields.io/badge/OpenWRT-22.03-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.3.4-blue.svg"> <p></p>(Xiaomi Mi Router 3G)</a>
 
 # Mi Router 3GV2
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03.0-MSSVPN-V1.2.1%20WSS-Xiaomi_Mi-Router-3GV2.bin"><img src="https://img.shields.io/badge/OpenWRT-22.03.0-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> <p></p>(Xiaomi Mi Router 3GV2)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03-MSSVPN%20V1.3.4-Mi-3G-v2-squashfs-sysupgrade.bin"><img src="https://img.shields.io/badge/OpenWRT-22.03-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.3.4-blue.svg"> <p></p>(Xiaomi Mi Router 3GV2)</a>
+
+# D-Team Newifi D2
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03-MSSVPN%20V1.3.4-D-Team-Newifi-D2-squashfs-sysupgrade.bin"><img src="https://img.shields.io/badge/OpenWRT-22.03-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.3.4-blue.svg"> <p></p>(D-Team Newifi D2)</a>
 
 # Nanopi R2S
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/Openwrt-22.03.0-MSSVPN-V1.2.1%20WSS%20Nanopi-R2S.img.gz"><img src="https://img.shields.io/badge/OpenWRT-22.03.0-orange.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> <p></p>(Nanopi R2S)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03-MSSVPN%20V1.3.4-Nanopi-R2S-squashfs-sysupgrade.img.gz"><img src="https://img.shields.io/badge/OpenWRT-22.03-orange.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.3.4-blue.svg"> <p></p>(Nanopi R2S)</a>
 
 # Nanopi R4S
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/Openwrt-22.03.0-MSSVPN-V1.2.1%20WSS%20Nanopi-R4S.img.gz"><img src="https://img.shields.io/badge/OpenWRT-22.03.0-orange.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg"> <p></p>(Nanopi R4S)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03-MSSVPN%20V1.3.4-Nanopi-R4S-squashfs-sysupgrade.img.gz"><img src="https://img.shields.io/badge/OpenWRT-22.03-orange.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.3.4-blue.svg"> <p></p>(Nanopi R4S)</a>
 
 # Our Features Update:
-* <img src="https://img.shields.io/badge/Version-1.2.1-blue.svg">
+* <img src="https://img.shields.io/badge/Version-1.3.4-blue.svg">
+* Xray Core Update - V1.5.4.1 & V1.5.10.1
+* Remain working tweak from 1.2.1 + Improvement
+* Tweak Process - For low ram router (New Improvement)
+* Passwall Network Monitor (Advance monitoring)
+* Theme set to light
+* Minor bug fix
+* Dll
+* <img src="https://img.shields.io/badge/Version-1.3.4-blue.svg">
 * Tweak Process - For low ram router
 * Auto Clear Cache
 * Support WSS Custom Path
