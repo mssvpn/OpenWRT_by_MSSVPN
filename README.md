@@ -27,10 +27,10 @@ Supported Router
 * <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03-MSSVPN%20V1.3.5-D-Team-Newifi-D2-squashfs-sysupgrade.bin"><img src="https://img.shields.io/badge/OpenWRT-22.03-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.3.5-blue.svg"> <p></p>(Download Link - D-Team Newifi D2)</a>
 
 # Nanopi R2S
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03-MSSVPN%20V1.3.4-Nanopi-R2S-squashfs-sysupgrade.img.gz"><img src="https://img.shields.io/badge/OpenWRT-22.03-orange.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.3.5-blue.svg"> <p></p>(Download Link - Nanopi R2S)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03-MSSVPN%20V1.3.5-Nanopi-R2S-squashfs-sysupgrade.img.gz"><img src="https://img.shields.io/badge/OpenWRT-22.03-orange.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.3.5-blue.svg"> <p></p>(Download Link - Nanopi R2S)</a>
 
 # Nanopi R4S
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03-MSSVPN%20V1.3.4-Nanopi-R4S-squashfs-sysupgrade.img.gz"><img src="https://img.shields.io/badge/OpenWRT-22.03-orange.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.3.5-blue.svg"> <p></p>(Download Link - Nanopi R4S)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWrt-22.03-MSSVPN%20V1.3.5-Nanopi-R4S-squashfs-sysupgrade.img.gz"><img src="https://img.shields.io/badge/OpenWRT-22.03-orange.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.3.5-blue.svg"> <p></p>(Download Link - Nanopi R4S)</a>
 
 # Our Features Update:
 * <img src="https://img.shields.io/badge/Version-1.3.5-blue.svg">
