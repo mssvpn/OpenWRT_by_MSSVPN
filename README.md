@@ -51,6 +51,8 @@ Supported Router
 * <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/ImmortalWRT_21.02.1-MSSVPN_V1.3.6-friendlyarm_nanopi-r2c-squashfs-sysupgrade.img.gz"><img src="https://img.shields.io/badge/ImmortalWRT-21.02.1-red.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.3.6-blue.svg"> <p></p>(ImmortalWRT Download Link - Nanopi R2C)</a>
 
 # Our Features Update:
+* <img src="https://img.shields.io/badge/Version-1.3.6-blue.svg">
+* Passwall Network Monitor (Advance monitoring) - Disable by default
 * <img src="https://img.shields.io/badge/Version-1.3.5-blue.svg">
 * Passwall Network Monitor (Advance monitoring) - Fix Bug
 * Disable WAN6 Interface
