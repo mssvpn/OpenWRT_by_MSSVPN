@@ -114,5 +114,5 @@ Supported Trick Info: ➡️ <a href="https://t.me/mssvpn_bot">MSSVPN BOT</a>
 <b>CRONMARKETING</b><p></p>
 Maybank: 562508527675<p></p>
 EWallet: <a href="https://payment.tngdigital.com.my/sc/bDLnAXzAbu">TouchnGo</a><p></p>
-<i>(Your donation will be used to support & continue this project lead by MSSVPN.)</i>
+<i>(Donate if you like my work & it will motivate me to continue this project.)</i>
 
