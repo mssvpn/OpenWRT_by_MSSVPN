@@ -101,9 +101,9 @@ Supported Router
 
 # Contact Me:
 (Custom Fix & Compile Firmware)<p></p>
-Telegram Channel: <a href="http://t.me/mssvpn">MSSVPN</a><p></p>
-Telegram Group FW: <a href="http://t.me/mssvpn_fw">MSSVPN FW</a><p></p>
-My Telegram: <a href="http://t.me/mssvpn_hq">MSSVPN HQ</a><p></p>
+Telegram Channel FW: <a href="http://t.me/mssvpn_cfw">Collection Firmware Channel by MSSVPN</a><p></p>
+Telegram Group FW: <a href="http://t.me/mssvpn_fw">Group Feedback Firmware by MSSVPN</a><p></p>
+Personal Telegram: <a href="http://t.me/mssvpn_hq">MSSVPN HQ</a><p></p>
 
 # VPN Config by MSSVPN:
 Supported Trick Info: ➡️ <a href="https://t.me/mssvpn_bot">MSSVPN BOT</a>
