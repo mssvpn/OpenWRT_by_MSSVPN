@@ -60,7 +60,43 @@ Supported Router
 # Xunlong Orangepi R1 Plus Lts
 * <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xunlong_orangepi-r1-plus-lts"><img src="https://img.shields.io/badge/ImmortalWRT-Only-red.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <p></p>(ImmortalWRT Download Link - Xunlong Orangepi R1 Plus Lts)</a>
 
-# Our Features Update:
+
+# Login Details ImmortalWRT
+* IP: 192.168.1.1
+* User: root
+* Pass: password <p></p> (<i>Starting Version 1.4.5, Tiada Password untuk ImmortalWRT</i>)
+
+# Tutorial Setup Passwall:
+* <a href="https://telegra.ph/Cara-Setup-Pass-Wall---OpenWRT-21023-08-31">Click Here</a>
+
+# Contact Me:
+(Custom Fix & Compile Firmware)<p></p>
+Telegram Channel FW: <a href="http://t.me/mssvpn_cfw">Collection Firmware Channel by MSSVPN</a><p></p>
+Telegram Group FW: <a href="http://t.me/mssvpn_fw">Group Feedback Firmware by MSSVPN</a><p></p>
+Personal Telegram: <a href="http://t.me/mssvpn_hq">MSSVPN HQ</a><p></p>
+
+# VPN Config by MSSVPN:
+Supported Trick Info: ➡️ <a href="https://t.me/mssvpn_bot">MSSVPN BOT</a>
+
+# Buy me a coffee 🧋 (Donate:)
+<p align="center"><img src="https://telegra.ph/file/42d7bf79b27dc90b1cd69.jpg" width="280" height="400"></p>
+<p></p>
+<b>CRONMARKETING</b><p></p>
+Maybank: 562508527675<p></p>
+EWallet: <a href="https://payment.tngdigital.com.my/sc/bDLnAXzAbu">TouchnGo</a><p></p>
+<i>(Donate if you like my work & it will motivate me to continue this project.)</i>
+
+
+# Changelog Update:
+* <img src="https://img.shields.io/badge/Version-1.4.6-blue.svg">
+* Fix Bug LAN Settings
+* OpenWRT 22.03.2
+* ImmortalWRT 21.02.3 
+* <img src="https://img.shields.io/badge/Version-1.4.5-blue.svg">
+* Update Xray-Core V1.6.2 + WSS
+* All Router Using XrayCore V1.6.2 + WSS
+* Fix AutoReboot Weekly - Sunday 4AM
+* Fix LAN DHCP
 * <img src="https://img.shields.io/badge/Version-1.4.2-blue.svg">
 * Base ImmortalWRT 21.02.1
 * Xray Core v1.5.4 wss
@@ -107,30 +143,3 @@ Supported Router
 * Theme - Bootstrap Dark
 (<i>Change Yours - System -> Style</i>)
 * Fix UDP Test - https://networktest.twilio.com
-
-# Login Details ImmortalWRT
-* IP: 192.168.1.1
-* User: root
-* Pass: password
-
-
-# Tutorial Setup Passwall:
-* <a href="https://telegra.ph/Cara-Setup-Pass-Wall---OpenWRT-21023-08-31">Click Here</a>
-
-# Contact Me:
-(Custom Fix & Compile Firmware)<p></p>
-Telegram Channel FW: <a href="http://t.me/mssvpn_cfw">Collection Firmware Channel by MSSVPN</a><p></p>
-Telegram Group FW: <a href="http://t.me/mssvpn_fw">Group Feedback Firmware by MSSVPN</a><p></p>
-Personal Telegram: <a href="http://t.me/mssvpn_hq">MSSVPN HQ</a><p></p>
-
-# VPN Config by MSSVPN:
-Supported Trick Info: ➡️ <a href="https://t.me/mssvpn_bot">MSSVPN BOT</a>
-
-# Buy me a coffee 🧋 (Donate:)
-<p align="center"><img src="https://telegra.ph/file/42d7bf79b27dc90b1cd69.jpg" width="280" height="400"></p>
-<p></p>
-<b>CRONMARKETING</b><p></p>
-Maybank: 562508527675<p></p>
-EWallet: <a href="https://payment.tngdigital.com.my/sc/bDLnAXzAbu">TouchnGo</a><p></p>
-<i>(Donate if you like my work & it will motivate me to continue this project.)</i>
-
