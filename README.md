@@ -125,8 +125,6 @@ Supported Router
 * User: root
 * Pass: password
 
-# Old Version:
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/blob/main/Old%20Version/README.md">Not Recommended to use Old Version</a>
 
 # Tutorial Setup Passwall:
 * <a href="https://telegra.ph/Cara-Setup-Pass-Wall---OpenWRT-21023-08-31">Click Here</a>
