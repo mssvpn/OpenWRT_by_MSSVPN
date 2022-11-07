@@ -30,8 +30,7 @@ Supported Router
 * <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/ImmortalWRT_21.02.1-MSSVPN_V1.4.2-xiaomi_mi-router-3g-v2.bin"><img src="https://img.shields.io/badge/ImmortalWRT-21.02.1-red.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.4.2-blue.svg"> <p></p>(ImmortalWRT Download Link - Xiaomi Mi Router 3GV2)</a>
 
 # D-Team Newifi D2
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWRT_22.03-MSSVPN_V1.4.1-d-team_newifi-d2.bin"><img src="https://img.shields.io/badge/OpenWRT-22.03-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.4.1-blue.svg"> <p></p>(Download Link - D-Team Newifi D2)</a><p></p>
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/ImmortalWRT_21.02.1-MSSVPN_V1.4.2-d-team_newifi-d2.bin"><img src="https://img.shields.io/badge/ImmortalWRT-21.02.1-red.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.4.2-blue.svg"> <p></p>(ImmortalWRT Download Link - D-Team Newifi D2)</a>
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/d-team_newifi-d2"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-blue.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <p></p>(Download Link - D-Team Newifi D2)</a><p></p>
 
 # GliNet Gl-MT300N-V2
 * <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/raw/main/OpenWRT_22.03-MSSVPN_V1.4.1-glinet_gl-mt300n-v2.bin"><img src="https://img.shields.io/badge/OpenWRT-22.03-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <img src="https://img.shields.io/badge/Version-1.4.1-blue.svg"> <p></p>(Download Link - GliNet Gl-MT300N-V2)</a><p></p>
