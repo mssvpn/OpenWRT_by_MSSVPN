@@ -13,7 +13,6 @@ Recommended to Use Latest Version If Possible.
 # Contact Me:
 * Telegram Firmware Channel: <a href="http://t.me/mssvpn_cfw">MSSVPN</a><p></p>
 * Telegram Firmware Group: <a href="http://t.me/mssvpn_fw">MSSVPN</a><p></p>
-<p></p>
 * My VPN Trick Telegram Channel: <a href="http://t.me/mssvpn">MSSVPN</a><p></p>
 * My Telegram: <a href="http://t.me/mssvpn_hq">MSSVPN HQ</a><p></p>
 
