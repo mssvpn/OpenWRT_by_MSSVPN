@@ -88,6 +88,8 @@ EWallet: <a href="https://payment.tngdigital.com.my/sc/bDLnAXzAbu">TouchnGo</a><
 
 
 # Changelog Update:
+* <img src="https://img.shields.io/badge/Version-1.4.8-blue.svg">
+* Support New Custom CF-WSS Xray Path 
 * <img src="https://img.shields.io/badge/Version-1.4.6-blue.svg">
 * Fix Bug LAN Settings
 * OpenWRT 22.03.2
