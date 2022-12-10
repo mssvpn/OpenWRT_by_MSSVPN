@@ -45,6 +45,12 @@ Supported Router
 # Dlink Dir-882-R1
 * <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/dlink_dir-882-r1"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-blue.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <p></p>(Download Link - Dlink Dir-882-R1)</a><p></p>
 
+# Linksys EA8100-V1
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/linksys_ea8100-v1"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-blue.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <p></p>(Download Link - Linksys EA8100-V1)</a><p></p>
+
+# Linksys EA7500-V2
+* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/linksys_ea7500-v2"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-blue.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <p></p>(Download Link - Linksys EA7500-V2)</a><p></p>
+
 # Nanopi R2S
 * <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/nanopi-r2s"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-blue.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <p></p>(Download Link - Nanopi R2S)</a><p></p>
 
