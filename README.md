@@ -10,8 +10,8 @@ Supported Router
 # ⚙️ Firmware Table
 | Router Model | Download | Latest Update |
 |--------------|----------|---------------|
-| Xiaomi Mi Router 4A Gigabit    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_mi-router-4a-gigabit)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_mi-router-4a-gigabit) |
-| Totolink X5000r    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/totolink_x5000r)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/totolink_x5000r) |
+| <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_mi-router-4a-gigabit">Xiaomi Mi Router 4A Gigabit</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_mi-router-4a-gigabit)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_mi-router-4a-gigabit) |
+| <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/totolink_x5000r">Totolink X5000r</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/totolink_x5000r)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/totolink_x5000r) |
 
 
 # Xiaomi Mi Router 4A Gigabit
