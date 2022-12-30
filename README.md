@@ -12,67 +12,24 @@ Supported Router
 |--------------|----------|---------------|
 | <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_mi-router-4a-gigabit">Xiaomi Mi Router 4A Gigabit</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_mi-router-4a-gigabit)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_mi-router-4a-gigabit) |
 | <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/totolink_x5000r">Totolink X5000r</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/totolink_x5000r)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/totolink_x5000r) |
-
-
-# Xiaomi Mi Router 4A Gigabit
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_mi-router-4a-gigabit"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <p></p>(Download Link - Mi4AGiga)</a><p></p>
-
-# Totolink X5000r
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/totolink_x5000r"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <p></p>(Download Link - Totolink X5000R)</a><p></p>
-*  
-* <a href="https://shopee.com.my/TOTOLINK-X5000R-(AX1800)-WiFi-6-MU-MIMO-Gigabit-Wireless-WiFi-Router-OpenWRT-Stock-Firmware-i.234683885.13110314797?xptdk=1953b9a8-c1fe-4f96-a5fa-5397cbacad6c" target="_blank"><img src="https://img.shields.io/badge/Shopee-Trusted!-orange.svg"> <img src="https://img.shields.io/badge/Shopee-SPayLater-blue.svg"> <p></p>Beli Router Totolink X5000r Di Shopee</a>
-
-# Redmi AC2100
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_redmi-router-ac2100"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <p></p>(Download Link - Redmi AC2100)</a><p></p>
-
-# Mi Router 3G
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_mi-router-3g"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <p></p>(Download Link - Xiaomi Mi Router 3G)</a><p></p>
-
-# Mi Router 3GV2
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_mi-router-3g-v2"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-orange.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <p></p>(Download Link - Xiaomi Mi Router 3GV2)</a><p></p>
-
-# D-Team Newifi D2
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/d-team_newifi-d2"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-blue.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <p></p>(Download Link - D-Team Newifi D2)</a><p></p>
-
-# GliNet Gl-MT300N-V2
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/glinet_gl-mt300n-v2"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-blue.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <p></p>(Download Link - GliNet Gl-MT300N-V2)</a><p></p>
-
-# GliNet Gl-AR750s-NOR
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/glinet_gl-ar750s-nor"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-blue.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <p></p>(Download Link - GliNet Gl-AR750s-NOR)</a><p></p>
-
-# GliNet Gl-MT1300
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/glinet_gl-mt1300"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-blue.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <p></p>(Download Link - GliNet Gl-MT1300)</a><p></p>
-
-# Dlink Dir-878-A1
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/dlink_dir-878-a1"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-blue.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <p></p>(Download Link - Dlink Dir-878-A1)</a><p></p>
-
-# Dlink Dir-842-C2
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/dlink_dir-842-c2"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-blue.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <p></p>(Download Link - Dlink Dir-842-C2)</a><p></p>
-
-# Dlink Dir-882-R1
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/dlink_dir-882-r1"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-blue.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <p></p>(Download Link - Dlink Dir-882-R1)</a><p></p>
-
-# Linksys EA8100-V1
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/linksys_ea8100-v1"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-blue.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <p></p>(Download Link - Linksys EA8100-V1)</a><p></p>
-
-# Linksys EA7500-V2
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/linksys_ea7500-v2"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-blue.svg"> <img src="https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg"> <p></p>(Download Link - Linksys EA7500-V2)</a><p></p>
-
-# Nanopi R2S
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/nanopi-r2s"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-blue.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <p></p>(Download Link - Nanopi R2S)</a><p></p>
-
-# Nanopi R4S
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/nanopi-r4s"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-orange.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <p></p>(Download Link - Nanopi R4S)</a><p></p>
-
-# Rasberry Pi 4
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/rpi-4"><img src="https://img.shields.io/badge/OpenWRT-ImmortalWRT-orange.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <p></p>(Download Link - Rasberry Pi 4)</a><p></p>
-
-# Nanopi R2C
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/nanopi-r2c"><img src="https://img.shields.io/badge/ImmortalWRT-Only-red.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <p></p>(ImmortalWRT Download Link - Nanopi R2C)</a>
-
-# Xunlong Orangepi R1 Plus Lts
-* <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xunlong_orangepi-r1-plus-lts"><img src="https://img.shields.io/badge/ImmortalWRT-Only-red.svg"> <img src="https://img.shields.io/badge/Passwall/SSR+/OpenClash-MSSVPN-yellow.svg"> <p></p>(ImmortalWRT Download Link - Xunlong Orangepi R1 Plus Lts)</a>
-
+| <a href="https://shopee.com.my/TOTOLINK-X5000R-(AX1800)-WiFi-6-MU-MIMO-Gigabit-Wireless-WiFi-Router-OpenWRT-Stock-Firmware-i.234683885.13110314797?xptdk=1953b9a8-c1fe-4f96-a5fa-5397cbacad6c" target="_blank">New Router Totolink X5000r</a>    |[![Download Button](https://img.shields.io/badge/Shopee-Trusted!-orange.svg)](https://shopee.com.my/TOTOLINK-X5000R-(AX1800)-WiFi-6-MU-MIMO-Gigabit-Wireless-WiFi-Router-OpenWRT-Stock-Firmware-i.234683885.13110314797?xptdk=1953b9a8-c1fe-4f96-a5fa-5397cbacad6c)|[![Download Button](https://img.shields.io/badge/Shopee-SPayLater-blue.svg)](https://shopee.com.my/TOTOLINK-X5000R-(AX1800)-WiFi-6-MU-MIMO-Gigabit-Wireless-WiFi-Router-OpenWRT-Stock-Firmware-i.234683885.13110314797?xptdk=1953b9a8-c1fe-4f96-a5fa-5397cbacad6c) |
+| <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_redmi-router-ac2100">Redmi AC2100</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_redmi-router-ac2100)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_redmi-router-ac2100) |
+| <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_mi-router-3g">Mi Router 3G</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_mi-router-3g)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_mi-router-3g) |
+| <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_mi-router-3g-v2">Mi Router 3GV2</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_mi-router-3g-v2)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xiaomi_mi-router-3g-v2) |
+| <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/d-team_newifi-d2">D-Team Newifi D2</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/d-team_newifi-d2)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/d-team_newifi-d2) |
+| <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/glinet_gl-mt300n-v2">GliNet Gl-MT300N-V2</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/glinet_gl-mt300n-v2)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/glinet_gl-mt300n-v2) |
+| <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/glinet_gl-ar750s-nor">GliNet Gl-AR750s-NOR</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/glinet_gl-ar750s-nor)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/glinet_gl-ar750s-nor) |
+| <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/glinet_gl-mt1300">GliNet Gl-MT1300</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/glinet_gl-mt1300)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/glinet_gl-mt1300) |
+| <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/dlink_dir-878-a1">Dlink Dir-878-A1</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/dlink_dir-878-a1)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/dlink_dir-878-a1) |
+| <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/dlink_dir-842-c2">Dlink Dir-842-C2</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/dlink_dir-842-c2)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/dlink_dir-842-c2) |
+| <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/dlink_dir-882-r1">Dlink Dir-882-R1</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/dlink_dir-882-r1)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/dlink_dir-882-r1) |
+| <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/linksys_ea8100-v1">Linksys EA8100-V1</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/linksys_ea8100-v1)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/linksys_ea8100-v1) |
+| <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/linksys_ea7500-v2">Linksys EA7500-V2</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/linksys_ea7500-v2)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/linksys_ea7500-v2) |
+| <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/nanopi-r2s">Nanopi R2S</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/nanopi-r2s)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/nanopi-r2s) |
+| <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/nanopi-r4s">Nanopi R4S</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/nanopi-r4s)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/nanopi-r4s) |
+| <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/rpi-4">Rasberry Pi 4</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/rpi-4)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/rpi-4) |
+| <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/nanopi-r2c">Nanopi R2C</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/nanopi-r2c)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/nanopi-r2c) |
+| <a href="https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xunlong_orangepi-r1-plus-lts">Xunlong Orangepi R1 Plus Lts</a>    |[![Download Button](https://img.shields.io/badge/Passwall-MSSVPN-yellow.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xunlong_orangepi-r1-plus-lts)|[![Download Button](https://img.shields.io/badge/Version-1.4.8-blue.svg)](https://github.com/mssvpn/OpenWRT_by_MSSVPN/tree/main/xunlong_orangepi-r1-plus-lts) |
 
 # Login Details ImmortalWRT
 * IP: 192.168.1.1
