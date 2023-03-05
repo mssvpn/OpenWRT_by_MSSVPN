@@ -62,9 +62,9 @@ EWallet: <a href="https://payment.tngdigital.com.my/sc/bDLnAXzAbu">TouchnGo</a><
 
 # Changelog Update:
 * <img src="https://img.shields.io/badge/Version-1.5.1-blue.svg">
-* New Base OpenWRT 22.03.3
+* New Base OpenWRT 22.03.3 & ImmortalWRT 21.02.4
 * Xray Core Custom Multi Path
-* Xray Core V1.7.2-1
+* Xray Core V1.7.2.1 & V1.7.5.1
 * Add Passwall Monitor by mssvpn
 * <img src="https://img.shields.io/badge/Version-1.5.0-blue.svg">
 * New Base OpenWRT 22.03.3
